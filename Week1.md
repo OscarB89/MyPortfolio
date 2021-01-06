@@ -30,7 +30,7 @@
 - PLAN: Walk through debugging approaches on GitHub
 - EVIDENCE: 
 
-#### Wednesday 21st August
+#### Jan 7th 2021
 - GOAL: Understand some basic principles of OO programming - encapsulation and SRP **✓**
 - PLAN: Use the morning to work through OO exercises, perhaps recording progress.
 - EVIDENCE: 
