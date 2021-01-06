@@ -1,4 +1,4 @@
-## Dan Gyi - Portfolio
+## Oscar Bertrand - Portfolio
 
 This is my learning journey at Makers Academy.
 
