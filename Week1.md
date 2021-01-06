@@ -8,7 +8,7 @@
 
 #### Plans to achieve:
 1. Work through the Boris Bike Challenge and attend workshop
-2. Debug 2 Ruby programs that have multiple syntax and testing errors
+2. Debug Ruby programs that have multiple syntax and testing errors
 3. Work through OO exercises in the course week outline, and read documentation on Class, since that's an area of weak understanding that I've identified.
 4. Each afternoon work for 3 hours with different paired partners, and follow best practices to maintain collaborative repos.
 
