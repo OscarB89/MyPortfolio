@@ -9,7 +9,7 @@
 #### Plans to achieve:
 1. Work through the Boris Bike Challenge and attend workshop
 2. Debug Ruby programs that have multiple syntax and testing errors
-3. Work through OO exercises in the course week outline, and read documentation on Class, since that's an area of weak understanding that I've identified.
+3. Work through OO exercises in the course week outline
 4. Each afternoon work for 3 hours with different paired partners, and follow best practices to maintain collaborative repos.
 
 #### Evidence:
@@ -31,11 +31,10 @@
 - EVIDENCE: 
 
 #### Jan 7th 2021
-- GOAL: Understand some basic principles of OO programming - encapsulation and SRP **✓**
-- PLAN: Use the morning to work through OO exercises, perhaps recording progress.
-- EVIDENCE: 
-  * **Calculator** OOP repo in skills repository - updated with completed commit [here](https://github.com/DanGyi23/skills-workshops/tree/master/week-1/oop_1). Created instance of class and tested in IRB [here](https://github.com/DanGyi23/skills-workshops/blob/master/week-1/oop_1/IRB-test-Calc-Class.png). 
-  * **Secret Diary** Repo [here](https://github.com/DanGyi23/skills-workshops/tree/master/practicals/object_oriented_design) with [screengrab](https://github.com/DanGyi23/skills-workshops/blob/master/practicals/object_oriented_design/SS-diary-1.png) of the code in action!
+- GOAL: Working through TDD practicals
+- PLAN: Solving dice app user stories usung TTD procedures
+- EVIDENCE: https://github.com/bateso88/Dice-App/commits/main
+
   
 #### Thursday 22nd August
 - GOAL: Improve understanding of instance variables and attr reader **✓**
