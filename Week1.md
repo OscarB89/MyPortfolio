@@ -22,18 +22,18 @@
 #### Jan 6th 2021
 - GOAL: Debug simple program
 - PLAN: Walk through debugging approaches on GitHub
-- EVIDENCE: 
+- EVIDENCE: Need to link local repo to GitHub
 
 #### Jan 7th 2021
 - GOAL: Working through TDD practicals
 - PLAN: Solving dice app user stories using TTD procedures
-- EVIDENCE:
+- EVIDENCE: https://github.com/OscarB89/Dice-App
 
   
 #### Jan 8th 2021
-- GOAL:
-- PLAN:
-- EVIDENCE:
+- GOAL: Working through TDD practicals (Day 2)
+- PLAN: Finishing dice app user stories using TTD procedures
+- EVIDENCE: https://github.com/OscarB89/Dice-App
   
 ## Reflection
 
