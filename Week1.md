@@ -15,13 +15,7 @@
 #### Evidence:
 1. 
 - **Boris-Bikes** Exhaustive step-wise Boris Bike challenge [here](https://github.com/DanGyi23/boris_bike_challenge) - commits demonstrate different stages of unit & feature testing. Completed as part of a pair.
-- **Roman Numerals** TDD'd a very basic 1 to 10 Roman Numeral converter program. Practiced writing a test, failing it, then improving the code to make the test pass, until eventually all test criteria were passed and the code behaves as expected. Repo [here](https://github.com/DanGyi23/roman-numerals-tdd/tree/master)
-- **Birthdays** TDD'd and implemented all features from a [Birthday challenge](https://github.com/DanGyi23/birthdays) - storing birthdays of people and checking if it's anybody's birthday today. I implemented a basic user interface for added complexity, calling different methods when the user selects a certain option. First commit shows tests written without any feature code.
-2. Debugged a couple of erroneous scripts - Screencaps [here](https://github.com/DanGyi23/MyPortfolio/blob/master/videos/wk1-debug-cipher.mp4) and [here](https://github.com/DanGyi23/MyPortfolio/blob/master/videos/wk1-debug-fizzbuzz.mp4)
-3. Two exercises with examples of understanding SRP and OOP principles for classes:
-  - **Calculator** OOP repo in skills repository - updated with completed commit [here](https://github.com/DanGyi23/skills-workshops/tree/master/week-1/oop_1). Created instance of class and tested in IRB [here](https://github.com/DanGyi23/skills-workshops/blob/master/week-1/oop_1/IRB-test-Calc-Class.png). 
-  - **Secret Diary** Wrote secret diary script with different methods, and checked that instances of the secretdiary class responded to each method contained within the class. Repo [here](https://github.com/DanGyi23/skills-workshops/tree/master/practicals/object_oriented_design) with [screengrab](https://github.com/DanGyi23/skills-workshops/blob/master/practicals/object_oriented_design/SS-diary-1.png) of the code in action! Understood splitting classes into relevant grouped methods, making the code easier to navigate/understand.
-  - **Airport Challenge** Wrote a simple program to govern the taking off and landing of planes, with edge cases. Also demonstrated TDD and followed a the process strictly. Repo [here](https://github.com/DanGyi23/airport_challenge)
+  - **Airport Challenge** 
 
 ## Daily Goals
 
@@ -32,22 +26,14 @@
 
 #### Jan 7th 2021
 - GOAL: Working through TDD practicals
-- PLAN: Solving dice app user stories usung TTD procedures
-- EVIDENCE: https://github.com/bateso88/Dice-App/commits/main
+- PLAN: Solving dice app user stories using TTD procedures
+- EVIDENCE:
 
   
-#### Thursday 22nd August
-- GOAL: Improve understanding of instance variables and attr reader **✓**
-- PLAN: Read Ruby documentation on attr reader and continue to work through the Boris Bikes challenge
-- EVIDENCE: [Boris Bike repo](https://github.com/DanGyi23/boris-bikes2) - instance variables and attr reader set up correctly and tested correctly
-
-#### Friday 23rd August
-- GOAL: Test my knowledge of the 4 weekly learning objectives
-- PLAN: Complete new week1 practicals and practice RubberDucking with comments for each line of my code
-- EVIDENCE: Completed repos with new challenges as part of the skills workshop repo.
-  * [Debugging exercise](https://github.com/DanGyi23/MyPortfolio/blob/master/videos/Week1-Debug-Geocoder.mov)
-  
-  
+#### Jan 8th 2021
+- GOAL:
+- PLAN:
+- EVIDENCE:
   
 ## Reflection
 
