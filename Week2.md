@@ -34,25 +34,10 @@
 
 ## Daily Goals
 
-#### Tuesday 27th August
-- GOAL: Review another person's code
-- PLAN: Complete code review with peers, give and receive feedback on airport challenge
-- EVIDENCE: Completed this on Tuesday 27th Aug - held by Makers
-
-#### Wednesday 28th August
-- GOAL: Break one class into two classes, maintaining unit test parity
-- PLAN: Use Oyster Card challenge as opportunity to refactor some Card class methods into Journey class methods
-- EVIDENCE: Worked with Ben to refactor into 2 new classes - Journey and Journey_Log - ensuring SRP. Repo [here](https://github.com/ben-zeng/oystercard)
-
-#### Thursday 29th August
-- GOAL: Understand class delegation
-- PLAN: Attend delegation workshop and complete some of the practicals from this week's skills-workshop repo
-- EVIDENCE: [Oystercard challenge](https://github.com/DanGyi23/oystercard-1) - many delegation examples here
-
-#### Friday 30th August
-- GOAL: Understand class polymorphism
-- PLAN: Attend polymorphism workshop and practice using the week2 OOP practicals
-- EVIDENCE: [Polymorphism example](https://github.com/DanGyi23/Object-Oriented-Design)
+#### Jan 12th 2021
+- GOAL: Understand the basic concepts of domain modelling
+- PLAN: Attend domain modelling workshop
+- EVIDENCE: Completed this on Jan 12th 2021 - held by Makers
 
 ## Reflection
 
