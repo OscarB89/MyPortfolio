@@ -39,6 +39,11 @@
 - PLAN: Attend domain modelling workshop
 - EVIDENCE: Completed this on Jan 12th 2021 - held by Makers
 
+#### Jan 13th 2021
+- GOAL: Break one class into two classes that work together
+- PLAN: Walk through oystercard challenge step 14
+- EVIDENCE: 
+
 ## Reflection
 
 
