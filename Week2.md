@@ -45,9 +45,9 @@
 - EVIDENCE: 
 
 #### Jan 14th 2021
-- GOAL: Improving the Design of simple existing code
-- PLAN: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/refactoring.md
-- EVIDENCE:
+- GOAL: Look at and attempted testing OO relationships using mocking practicals
+- PLAN: Going through https://github.com/OscarB89/testing_relationships_between_classes
+- EVIDENCE: https://github.com/OscarB89/testing_relationships_between_classes/commit/7d8aef90bdedf5dbfbb8ad6163aa6e976e23fd69
 
 ## Reflection
 
