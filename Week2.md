@@ -44,8 +44,15 @@
 - PLAN: Walk through oystercard challenge step 14
 - EVIDENCE: 
 
-## Reflection
+#### Jan 14th 2021
+- GOAL: Break one class into two classes that work together
+- PLAN: Walk through oystercard challenge step 14
+- EVIDENCE: 
 
+## Reflection
+- GOAL: Improving the Design of simple existing code
+- PLAN: https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/refactoring.md
+- EVIDENCE:
 
 ### Question 1
 
