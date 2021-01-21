@@ -42,9 +42,9 @@
 - EVIDENCE: On paper!
 
 #### Jan 21st 2021
-- GOAL: Complete half of the steps for the weekend challenge
-- PLAN: Use TDD to follow plan closely to complete build of app
-- EVIDENCE: [Completed repo here](https://github.com/DanGyi23/rps-challenge)
+- GOAL: Debugging on the Web
+- PLAN: Workshop
+- EVIDENCE: 
 
 #### Jan 22nd 2021
 - GOAL: RPS challenge to look nicer
