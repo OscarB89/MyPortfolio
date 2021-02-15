@@ -26,27 +26,27 @@
 
 ## Daily Goals
 
-#### Monday 2nd September
+#### Jan 18th 2021
 - GOAL: Understand basics of HTTP and how client/server relationship works
 - PLAN: Work through challenges set for this week's intro to the web
-- EVIDENCE: [Evidence](https://github.com/DanGyi23/week3-webapp/commits/master) of using Sinatra/Shotgun and creating HTML to be pushed to the webpage once a server has been initialized
+- EVIDENCE:
 
-#### Tuesday 3rd September
-- GOAL: Understand the model/view/controller pattern
-- PLAN: Work through creating Battle web app
-- EVIDENCE: Split project into lib/spec/views folders and keep separate. [Repo here](https://github.com/DanGyi23/wk3-battle)
+#### Jan 19th 2021
+- GOAL: Use process modelling to further your understanding of HTTP requests and responses
+- PLAN: Workshop
+- EVIDENCE: 
 
-#### Wednesday 4th September
+#### Jan 20th 2021
 - GOAL: Understand better how Sinatra and Capybara work
 - PLAN: Draw flow diagram to confirm understanding
 - EVIDENCE: On paper!
 
-#### Thursday 5th September
-- GOAL: Complete half of the steps for the weekend challenge
-- PLAN: Use TDD to follow plan closely to complete build of app
-- EVIDENCE: [Completed repo here](https://github.com/DanGyi23/rps-challenge)
+#### Jan 21st 2021
+- GOAL: Debugging on the Web
+- PLAN: Workshop
+- EVIDENCE: 
 
-#### Friday 6th September
+#### Jan 22nd 2021
 - GOAL: RPS challenge to look nicer
 - PLAN: Research different HTML syntax to help, implement on current views.
 - EVIDENCE: [Completed repo here](https://github.com/DanGyi23/rps-challenge)
