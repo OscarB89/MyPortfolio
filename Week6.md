@@ -15,5 +15,4 @@
 #### Wednesday
 - GOAL: Finish airport challenge and start Thermostat project
 - PLAN: Going through the cha;;enges
-- EVIDENCE: Airport challenge - https://github.com/OscarB89/airport_challenge_js
-            Themostat challenge - https://github.com/OscarB89/thermostatJS
+- EVIDENCE: Airport challenge - https://github.com/OscarB89/airport_challenge_js - Themostat challenge - https://github.com/OscarB89/thermostatJS
