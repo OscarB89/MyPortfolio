@@ -18,7 +18,7 @@
 
 #### Monday
 - GOAL: Create own testing library to TDD front-end JS
-- PLAN: Develop as simple-as-possible syntax to evaluate boolean and give visibility
+- PLAN: Develop as simple as possible syntax
 - EVIDENCE: https://github.com/bateso88/notes-app/blob/main/spec/TestingFramework.js
 
 #### Tuesday
