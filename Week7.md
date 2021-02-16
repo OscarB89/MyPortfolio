@@ -22,7 +22,6 @@
 - EVIDENCE: https://github.com/bateso88/notes-app/blob/main/spec/TestingFramework.js
 
 #### Tuesday
-- GOAL: Reinforce understanding of module pattern
-- PLAN: Use module pattern in Notes App and do lots of console.logging!
-- EVIDENCE: In the [Notes App](https://github.com/DanGyi23/wk7-notesapp) I started to create whole constructor functions within modules, exporting them so that functions/variables within the module & outside of the constructor were kept 'private'.
-
+- GOAL: Improve understanding of JS obj/prototype framework
+- PLAN: Work through JS Objects and Prototypes Practical
+- EVIDENCE: https://hackmd.io/nb1VZarCTGicD6dMOo43Ww
